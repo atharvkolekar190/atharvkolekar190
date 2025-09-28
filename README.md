@@ -114,7 +114,6 @@ I'm a **Web Developer** and **Problem Solver** passionate about building scalabl
 ---
 [![](https://visitcount.itsvg.in/api?id=atharvkolekar190&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
