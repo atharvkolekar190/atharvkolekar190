@@ -80,19 +80,17 @@ I'm a **Web Developer** and **Problem Solver** passionate about building scalabl
 <hr>
 
 ### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 <hr>
 
 ### 🤖 Robotics & Simulation  
 ![PyBullet](https://img.shields.io/badge/PyBullet-3C873A?style=flat&logo=python&logoColor=white) 
 ![URDF](https://img.shields.io/badge/URDF-FF6F00?style=flat&logo=robotframework&logoColor=white) 
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) 
-![Gazebo](https://img.shields.io/badge/Gazebo-FF5000?style=flat&logo=ros&logoColor=white) 
+![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
 ![Vosk](https://img.shields.io/badge/Vosk%20ASR-1C1C1C?style=flat&logo=voicemod&logoColor=white) 
 
 <hr>
