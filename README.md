@@ -1,5 +1,4 @@
 ## Hi there 👋 I am Atharv Kolekar😎 !
-
 # <h1>💫 About Me:</h1>
 I'm a **Web Developer** and **Problem Solver** passionate about building scalable applications and exploring innovative tech solutions. Currently, I'm:<br><br>🚀 Developing Full-Stack Applications with React, Node.js, and MongoDB<br>💡 Exploring AI/ML, IoT, and Cloud Development<br>👨‍💻 Interning and expanding my skills in software engineering<br>
 
