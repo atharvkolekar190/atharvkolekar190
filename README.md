@@ -1,116 +1,138 @@
-## Hi there 👋 I am Atharv Kolekar😎 !
-# <h1>💫 About Me:</h1>
-I'm a **Web Developer** and **Problem Solver** passionate about building scalable applications and exploring innovative tech solutions. Currently, I'm:<br><br>🚀 Developing Full-Stack Applications with React, Node.js, and MongoDB<br>💡 Exploring AI/ML, IoT, and Cloud Development<br>👨‍💻 Interning and expanding my skills in software engineering<br>
+<div align="center">
 
-🛠️ **Tech & Languages I've Explored:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **Languages:** C++, Java, Python, PHP, JavaScript <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **Databases:** MongoDB, MySQL <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **Cloud & DevOps:** Firebase, AWS (Basics) <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **AI/ML:** NumPy, Scikit-Learn, Matplotlib, TensorFlow, PyTorch, Hugging Face <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **Robotics & Simulation:** PyBullet, Vosk (Speech Recognition), URDF <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **IoT:** Node-RED, Wokwi, Wireless Communication, Arduino, ESP32, Raspberry Pi, and more <br>
+# ATHARV KOLEKAR
 
-✨ Always learning, always building — striving to create impactful solutions with technology.  
+### Full-Stack Developer | Problem Solver
 
+Building useful applications, exploring emerging technologies, and learning by creating.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-kolekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kolekar.atharv18gmail.com) 
+<p>
+  <a href="https://linkedin.com/in/atharv-kolekar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kolekar.atharv18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/atharvkolekar190">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-# 💻 Tech Stack:
-
-### 🌐 Languages  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-
-<hr>
-
-### ⚙️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)  
-
-<hr>
-
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)  
-
-<hr>
-
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
-
-<hr>
-
-### 🤖 AI / ML  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
-![Seaborn](https://img.shields.io/badge/Seaborn-2E5E82?style=flat&logo=python&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black) 
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=black) 
-
-<hr>
-
-### 🔧 Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-<hr>
-
-### 🤖 Robotics & Simulation  
-![PyBullet](https://img.shields.io/badge/PyBullet-3C873A?style=flat&logo=python&logoColor=white) 
-![URDF](https://img.shields.io/badge/URDF-FF6F00?style=flat&logo=robotframework&logoColor=white) 
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
-![Vosk](https://img.shields.io/badge/Vosk%20ASR-1C1C1C?style=flat&logo=voicemod&logoColor=white) 
-
-<hr>
-
-### 📡 IoT & Embedded Systems  
-![Node-RED](https://img.shields.io/badge/Node--RED-BB1F1F?style=flat&logo=nodered&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white) 
-![Wokwi](https://img.shields.io/badge/Wokwi-FFD62E?style=flat&logo=internet-of-things&logoColor=black) 
-![Wireless Communication](https://img.shields.io/badge/Wireless%20Communication-00629B?style=flat&logo=wifi&logoColor=white) 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=atharvkolekar190&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## About Me
 
+I'm an Information Technology undergraduate at **Pimpri Chinchwad College of Engineering, Pune**, with an interest in software development and building technology that solves practical problems.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+My work and learning span frontend and backend development, databases, and application deployment. I'm also interested in exploring AI/ML, cloud technologies, IoT, and robotics.
+
+- Developing full-stack applications with React, Node.js, and modern backend technologies.
+- Strengthening my problem-solving skills through Data Structures and Algorithms.
+- Exploring backend engineering, API design, databases, and system design.
+- Worked on robotics simulation and voice-controlled systems during my internship at **DRDO**.
+- Serving as a **Web Development Executive at GDG PCCoE**, contributing to web development activities and mentoring juniors.
+
+## Technologies & Tools
+
+The technologies I have worked with or explored are grouped below.
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+</p>
+
+### AI/ML, IoT & Robotics
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/PyBullet-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyBullet">
+</p>
+
+### Tools, Cloud & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/atharvkolekar190">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=atharvkolekar190&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Atharv's GitHub statistics">
+</a>
+<a href="https://github.com/atharvkolekar190">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvkolekar190&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+</a>
+
+<br>
+
+<a href="https://github.com/atharvkolekar190">
+  <img src="https://streak-stats.demolab.com?user=atharvkolekar190&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</a>
+
+</div>
+
+---
+
+## Connect With Me
+
+I'm open to connecting with developers, exchanging ideas, and collaborating on interesting projects.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-kolekar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kolekar.atharv18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atharvkolekar190)
+
+</div>
+
+<div align="center">
+  <sub>Building, learning, and improving — one project at a time.</sub>
+</div>
